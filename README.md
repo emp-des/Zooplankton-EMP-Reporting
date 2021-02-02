@@ -1,2 +1,3 @@
 # Zooplankton-EMP-Reporting
-Annual reporting requirements for Zooplankton EMP
+This project is intended to fufill the annual reporting requirements for the Zooplankton EMP survey.
+
