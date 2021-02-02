@@ -4,7 +4,8 @@ author: "Arthur Barros, CDFW, arthur.barros@wildlife.ca.gov"
 date: "2/2/2021"
 output: html_document
 ---
-
+Data available on the Environmental Data Initiative portal at: https://portal.edirepository.org/nis/mapbrowse?packageid=edi.522.4 <br />
+Or the CDFW FTP site at: ftp://ftp.wildlife.ca.gov/IEP_Zooplankton/
 
 ## Introduction
 
